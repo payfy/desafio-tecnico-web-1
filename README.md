@@ -1,6 +1,4 @@
-# desafio-tecnico-web-2
-
-## Desafio Técnico Payfy
+# Desafio Técnico Payfy
 Neste desafio, você vai ter que criar uma aplicação React para implementar a seguinte página: (link do figma)
 
 **Funcionalidades obrigatórias**
