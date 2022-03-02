@@ -1,11 +1,10 @@
 # Desafio Técnico Payfy
-Neste desafio, você vai ter que criar uma aplicação React para implementar a seguinte página: (link do figma)
+Neste desafio, você vai ter que criar uma aplicação React para implementar a seguinte página: [link do figma](https://www.figma.com/file/YP2iqH5rY4LNZPqVVXlo0u/Desafio-Tecnico?node-id=0%3A1)
 
 **Funcionalidades obrigatórias**
 
 - criar em um repositório que o examinador possa acessar(público ou adicionar o examinador como contribuidor do repo)
 - ao clicar no botão “create user” deve-se abrir a modal como mostra a segunda tela no figma
-- após adicionar a informação ao modal e clicar no botão, o nome e o id devem aparecer na tabela
 
 **Funcionalidades não obrigatórias, porém legal de se ter**
 
